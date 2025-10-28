@@ -90,16 +90,7 @@ MeetSync/
 
 ---
 
-## 📸 Screenshots (Optional)
 
-You can add your project screenshots like this:
-
-```markdown
-![Dashboard Screenshot](screenshots/dashboard.png)
-![Air Canvas in Action](screenshots/aircanvas.png)
-```
-
----
 
 ## 💡 Future Enhancements
 - Add Google Calendar integration for scheduling.
