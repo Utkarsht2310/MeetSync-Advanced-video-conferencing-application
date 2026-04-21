@@ -13,7 +13,7 @@ It allows users to host or join secure video meetings with advanced features lik
 - Host-exclusive feature for interactive explanations or brainstorming.
 
 ### 📋 Automatic Attendance (Excel Export)
-- Detects participant faces during meetings using AI.  
+ 
 - Saves attendance records automatically in an Excel file, identified by **Room ID**.
 
 ### 📝 Notes Making
